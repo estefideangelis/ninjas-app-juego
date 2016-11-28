@@ -4,7 +4,7 @@
 <widget id="tk.juego-ninja" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Ninjas</name> <!-- Nombre de la APP -->
     <description>
-        Soporte tecnico <!-- Descripcion en phonegap, si no se especifica otra en el appleStore o googleStore, va a aparecer esta descripcion -->
+        Juego Ninjas <!-- Descripcion en phonegap, si no se especifica otra en el appleStore o googleStore, va a aparecer esta descripcion -->
     </description>
     <author email="essteffi@hotmail.com" href="http://www.estefideangelis.tk"> <!-- datos de contacto del autor -->
         Estefanía De Angelis
