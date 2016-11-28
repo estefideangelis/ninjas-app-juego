@@ -31,7 +31,7 @@
 	<preference name="SplashScreenDelay" value="10000" />
 		
 		
-	<gap:plugin name="org.apache.cordova.splashscreen" spec="1.0.0" source="pgb" />
+<!--	<gap:plugin name="org.apache.cordova.splashscreen" spec="1.0.0" source="pgb" />-->
 		
     <gap:plugin name="org.apache.cordova.device-orientation" /><!--plugins en la pag de phonegap, la direccion que poner segun el plugin-->
     
